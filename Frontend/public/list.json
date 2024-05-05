@@ -1,0 +1,91 @@
+[
+    {
+        "id" : 1,
+        "name" : "Fantasy Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793725.jpg?t=st=1714824185~exp=1714827785~hmac=59c382d911dd00ad07bba2eae1a2228c25137ccb72dbedfcc1df655caf59887a&w=996"
+    },
+    {
+        "id" : 2,
+        "name" : "Adventure Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793703.jpg?t=st=1714837337~exp=1714840937~hmac=413528812dbc046d0351d25f31317254bc186bd8a822ab104848839ad877803f&w=996"
+    },
+    {
+        "id" : 3,
+        "name" : "Poem Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 100,
+        "category" : "Song",
+        "image" : "https://img.freepik.com/free-vector/indian-hindi-diwas-hindi-day-wright-speak-read-learn-celebrate-with-book-feather-background_1035-24859.jpg?t=st=1714936058~exp=1714939658~hmac=9585c91963c29d7d7aef10e172ad6264c4c28159a5a9aebfad261cd4bad8bfc4&w=900"
+    },
+    {
+        "id" : 4,
+        "name" : "Story Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158501.jpg?t=st=1714836621~exp=1714840221~hmac=d48075dca2231a1ee32c34a6ef59bd749c8baa1b6fc99f1dcca7b29f7c440c8a&w=996"
+    },
+    {
+        "id" : 5,
+        "name" : "Recipe Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 200,
+        "category" : "Recipe",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793725.jpg?t=st=1714824185~exp=1714827785~hmac=59c382d911dd00ad07bba2eae1a2228c25137ccb72dbedfcc1df655caf59887a&w=996"
+    },
+    {
+        "id" : 6,
+        "name" : "Mystery Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/magic-fairytale-book-concept_23-2150171881.jpg?t=st=1714837020~exp=1714840620~hmac=79ae1a2bd9ed63ebe37976b7d5c5b6658ebd5f7ccf0e3bb149741bedee6be2c6&w=996"
+    },
+    {
+        "id" : 7,
+        "name" : "Fairy Tales Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793687.jpg?t=st=1714836781~exp=1714840381~hmac=10cd77d49a84374caa622c0b85d0d008f52e5002c52aadcc200eaa033c03b9a0&w=996"
+    },
+    {
+        "id" : 8,
+        "name" : "Sports Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 50,
+        "category" : "Sports",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793725.jpg?t=st=1714824185~exp=1714827785~hmac=59c382d911dd00ad07bba2eae1a2228c25137ccb72dbedfcc1df655caf59887a&w=996"
+    },
+    {
+        "id" : 9,
+        "name" : "Horror Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1714837166~exp=1714840766~hmac=b2eac38f8c8acbb0334d4b177d4a59dfac823fc22c1a7d2745af5804aacca921&w=996"
+    },
+    {
+        "id" : 10,
+        "name" : "Comady Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 20,
+        "category" : "Entertainment",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793725.jpg?t=st=1714824185~exp=1714827785~hmac=59c382d911dd00ad07bba2eae1a2228c25137ccb72dbedfcc1df655caf59887a&w=996"
+    },
+    {
+        "id" : 11,
+        "name" : "Science Fiction Book",
+        "title" : "Open a Book, Open Your Mind: Explore Our Diverse Storybook Universe",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793723.jpg?t=st=1714837269~exp=1714840869~hmac=6e6c480a6edd244c1f0b21e22fd93d38e4ecc83101199bd12790c17c878ee102&w=996"
+    }
+    
+]
